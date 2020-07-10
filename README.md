@@ -1,5 +1,5 @@
 # Angular8MaterialSidebar
-
+         Shows angular material sidebar with toggle
 
 ## Development server
 
@@ -7,4 +7,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 # Sample Screenshot
 
-[![N|Solid](./src/assets/img/sidebar_screenshot.png)]
+![N|Solid](./src/assets/img/sidebar_screenshot.png)
+
+
+License
+----
+
+MIT
